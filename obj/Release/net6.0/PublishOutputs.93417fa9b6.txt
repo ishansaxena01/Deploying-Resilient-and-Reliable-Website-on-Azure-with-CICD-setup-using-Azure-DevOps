@@ -1,0 +1,7 @@
+C:\Users\Ishan\source\repos\AspDottestHelathWebsitetry02\obj\Release\net6.0\PubTmp\Out\AspDottestHelathWebsitetry02.exe
+C:\Users\Ishan\source\repos\AspDottestHelathWebsitetry02\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Ishan\source\repos\AspDottestHelathWebsitetry02\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Ishan\source\repos\AspDottestHelathWebsitetry02\obj\Release\net6.0\PubTmp\Out\AspDottestHelathWebsitetry02.dll
+C:\Users\Ishan\source\repos\AspDottestHelathWebsitetry02\obj\Release\net6.0\PubTmp\Out\AspDottestHelathWebsitetry02.deps.json
+C:\Users\Ishan\source\repos\AspDottestHelathWebsitetry02\obj\Release\net6.0\PubTmp\Out\AspDottestHelathWebsitetry02.runtimeconfig.json
+C:\Users\Ishan\source\repos\AspDottestHelathWebsitetry02\obj\Release\net6.0\PubTmp\Out\AspDottestHelathWebsitetry02.pdb
